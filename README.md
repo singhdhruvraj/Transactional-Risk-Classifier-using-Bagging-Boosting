@@ -45,7 +45,7 @@ This implementation uses the Credit Card Fraud Detection dataset, which contains
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ensemble-btr.git
+git clone https://github.com/singhdhruvraj/ensemble-btr.git
 cd ensemble-btr
 
 # Create and activate virtual environment (optional but recommended)
@@ -109,9 +109,6 @@ The project generates several visualizations to help understand model performanc
 - Incorporate additional data sources for enhanced feature engineering
 - Develop an API for integration with banking systems
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
